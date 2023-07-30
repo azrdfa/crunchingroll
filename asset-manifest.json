@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/crunchingroll/static/css/main.ac83ac72.css",
-    "main.js": "/crunchingroll/static/js/main.eb334e94.js",
+    "main.js": "/crunchingroll/static/js/main.a582df5e.js",
     "static/js/787.7b50cbb5.chunk.js": "/crunchingroll/static/js/787.7b50cbb5.chunk.js",
     "index.html": "/crunchingroll/index.html",
     "main.ac83ac72.css.map": "/crunchingroll/static/css/main.ac83ac72.css.map",
-    "main.eb334e94.js.map": "/crunchingroll/static/js/main.eb334e94.js.map",
+    "main.a582df5e.js.map": "/crunchingroll/static/js/main.a582df5e.js.map",
     "787.7b50cbb5.chunk.js.map": "/crunchingroll/static/js/787.7b50cbb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac83ac72.css",
-    "static/js/main.eb334e94.js"
+    "static/js/main.a582df5e.js"
   ]
 }
