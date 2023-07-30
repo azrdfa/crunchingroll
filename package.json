@@ -1,5 +1,6 @@
 {
   "name": "tokped-anime-collection",
+  "homepage": "http://azrdfa.github.io/crunchingroll",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -47,6 +48,7 @@
   },
   "devDependencies": {
     "@testing-library/react": "^14.0.0",
+    "gh-pages": "^5.0.0",
     "react-test-renderer": "^18.2.0"
   }
 }
