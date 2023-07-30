@@ -11,11 +11,11 @@ const Body = (props: BodyProps) => {
       style={{
         flexGrow: 1,
         position: "relative",
-        width: '80%',
+        width: "80%",
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        flexDirection: "column"
+        flexDirection: "column",
       }}
     >
       {props.children}

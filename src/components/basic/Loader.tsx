@@ -1,5 +1,5 @@
 /** @jsxImportSource @emotion/react */
-import { css, keyframes } from '@emotion/react';
+import { css, keyframes } from "@emotion/react";
 
 // Keyframes for the spin animation
 const spinAnimation = keyframes`
@@ -24,6 +24,6 @@ const loaderStyles = css`
 // Usage of the loaderStyles
 const Loader = () => {
   return <div css={loaderStyles} />;
-}
+};
 
 export default Loader;

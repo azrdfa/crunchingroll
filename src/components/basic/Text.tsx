@@ -50,7 +50,6 @@ export const NormalBoldText = styled.p`
   padding: 0px !important;
 `;
 
-
 export const NormalBoldWhiteText = styled.p`
   font-family: "Arial", sans-serif;
   font-size: 16px;
