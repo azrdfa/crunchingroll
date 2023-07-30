@@ -17,7 +17,7 @@ const App = () => {
       <Body>
         <Switch>
           <CollectionProvider>
-            <Route path="/" exact component={AnimeListPage} />
+            <Route path="/crunchingroll" exact component={AnimeListPage} />
             <Route path="/anime/:id" component={AnimeDetailPage} />
             <Route path="/collection" exact component={CollectionListPage} />
             <Route path="/collection/:name" component={CollectionDetailPage} />

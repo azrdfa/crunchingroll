@@ -41,7 +41,7 @@ const Navbar = () => {
       <Container>
         <StyledUl>
           <StyledLi>
-            <StyledLink to="/">Anime</StyledLink>
+            <StyledLink to="/crunchingroll">Anime</StyledLink>
           </StyledLi>
           <StyledLi>
             <StyledLink to="/collection">Collection</StyledLink>
